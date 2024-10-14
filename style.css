@@ -742,7 +742,7 @@ section .title::after{
 
 /* projects section styling */
 .teams .title::after{
-    content: "Proyectos realizados";
+    content: "Realizados";
 }
 .teams .carousel .card{
     background: #222;
